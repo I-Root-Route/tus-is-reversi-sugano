@@ -1,2 +1,1 @@
-# tus-is-reversi-sugano
-担当分のみ
+# 担当分のみ
